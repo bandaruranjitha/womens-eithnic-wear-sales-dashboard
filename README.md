@@ -17,3 +17,4 @@ revenue,profit,and customer trends
 ## CONCLUSION
 This dashboard helps in understanding business performance and
 making data-drive decisions.
+## DASHBOARD PREVIEW
